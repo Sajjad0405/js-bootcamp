@@ -59,9 +59,10 @@ Operators that use two values are called binary operators, while those that take
 ## Chapter 2
 
 ### Expressions and Statements
-A piece of code which produces any kind of value is called an expression. For example, literally every value that is written is actually an expression. '/n' If an expressions corresponds to a sentence fragment, a Javascript statement corresponds to a full sentence. A program is a list of statements. 
-'/n'
-asdsda
+A piece of code which produces any kind of value is called an expression. For example, literally every value that is written is actually an expression.  
+&nbsp;
+If an expressions corresponds to a sentence fragment, a Javascript statement corresponds to a full sentence. A program is a list of statements. 
+
 
 ## Chapter 3
 

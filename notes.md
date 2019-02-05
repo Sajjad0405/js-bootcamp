@@ -16,9 +16,9 @@ To be able to work with such quantities of bits, the bits must be separated into
 Those chunks of information are called values in a javascript environment.
 Every value has a type that determine its role. For example numbers, functions and pieces of text.
 
-###Arithmetic
+### Arithmetic
 
-+ - x / are called operators. These operators can be used to use mathimatical operations in javascript.
+/ are called operators. These operators can be used to use mathimatical operations in javascript.
 Operators such as addition, multiplication, substraction and division
 
 

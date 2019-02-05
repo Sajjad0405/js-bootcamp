@@ -4,22 +4,14 @@
 
 ## Chapter 1
 
-## Expressions and Statements
+### Bits
+Bits are any kind of two-valued things usually described as zeros and ones. Any piece of discrete information van be reduced to a sequence of zeros and ones and thus represented in bits.
 
-### Bindings
+An example how bits could look like are: 00110101101
 
-
-### Binding names 
-
-### The environment
-
-
-### Functions
-
-
-### Console.log
-
-
+### Values
+To be able to work with such quantities of bits, the bits must be separated into chunks that represent pieces of information. 
+Those chunks of information are called values in a javascript environment.
 ### Return values
 
 ## Chapter 2

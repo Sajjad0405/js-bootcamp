@@ -4,6 +4,24 @@
 
 ## Chapter 1
 
+## Expressions and Statements
+
+### Bindings
+
+
+### Binding names 
+
+### The environment
+
+
+### Functions
+
+
+### Console.log
+
+
+### Return values
+
 ## Chapter 2
 
 ## Chapter 3

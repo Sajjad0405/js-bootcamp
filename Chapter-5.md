@@ -57,7 +57,7 @@ let gamingAmsterdam = {
 Hierboven wordt een object gemaakt van een gaming bedrijf in Amsterdam. 
 
 
-### Filtering arrays with ```.filter(array)```
+### Filtering arrays with .filter(array)
 
 Stel je voor dat je alleen games wil weergeven die van genre sports zijn:
 
@@ -82,7 +82,7 @@ console.log(autos.filter(auto => game.genre == "Sports"));
 ```
 
 
-### ``` .map() functie```
+### ```Javascript .map() functie```
 
 Voor het geval dat je bijvoorbeeld alleen de naam van de games terug wil krijgen. Dit kun je bijvoorbeeld doen door middel van de .map() functie. .map() is daarom ook een higher order function. 
 Hieronder een voorbeeld:
@@ -108,7 +108,7 @@ console.log(map(sportGames, sportGame => sportGame.name));
 
 ```
 
-### ``` .reduce()```
+### ```Javascript .reduce()```
 
 Met .reduce() kan je een array om laten zetten tot één waarde. Een som van verschillende nummers is hier een voorbeeld van. Dit is hoe reduce onder de motorkap werkt:
 
